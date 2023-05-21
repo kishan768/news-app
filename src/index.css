@@ -1,0 +1,36 @@
+.cat:hover{
+    cursor: pointer;
+    color:darkorange;
+}
+.btn{
+    /* border-color: transparent; */
+    /* background-color: blue; */
+    margin: 0 1rem;
+
+}
+.dark-theme{
+    background-color: gray;
+    color: white;
+}
+.news-items{
+    margin-top: 0.5rem;
+    /* height: 20vh; */
+    /* max-height: 30vh; */
+}
+.img-item{
+    /* display: inline-block; */
+    position: relative;
+}
+.date{
+    background-color: cornflowerblue;
+    color: white;
+    position:absolute;
+    width: 30vh;
+    right: 0;
+}
+.author{
+    color: darkcyan;
+    position:absolute;
+    right:0.5rem;
+    bottom: -1rem;
+}
